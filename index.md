@@ -1,6 +1,16 @@
-## Welcome to GitHub Pages
+## Watch your favourite T-Pop (Thai) music videos since the hits of 90s collections until the popular of today. Unlimited songs streaming with no-additional charge with abilities to have your own collections of music videos managed. 
 
-You can use the [editor on GitHub](https://github.com/tonygdofficial/musicmate/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+(*No registration is required, walk freely to us start to be happy with the music right away)
+
+Features: 
+- Thousands of music videos
+- Curated playlists to fit your mood and need 
+- Unlimited your own playlist creations
+- High definition of video quality of every media
+
+
+Download MusicMate - T-POP now
+(Email: musicmatefeedback@gmail.com)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
